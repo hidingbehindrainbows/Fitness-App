@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799408216186",
+    "project_id": "mostlynotes-maybefitness",
+    "storage_bucket": "mostlynotes-maybefitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799408216186:android:eaa2b72925c86ae72743c3",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mET2B7rBiXhvO32V3RnjZixw7F3s7pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
